@@ -1,4 +1,4 @@
-### Pipes
+## Pipes
 ---
 Программа pipes: pipes имена программ
 ./pipes pr1 pr2  ... prN
